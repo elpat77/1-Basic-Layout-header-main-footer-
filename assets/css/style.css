@@ -1,0 +1,18 @@
+* {
+    margin:0;
+}
+
+header {
+    height:10vh;
+    background-color: aqua;
+}
+
+main{
+    height:80vh;
+    background-color: antiquewhite;
+}
+
+footer{
+    height:10vh;
+    background-color: aqua;
+}
